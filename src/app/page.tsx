@@ -3,12 +3,13 @@ import Scene from '@/components/scene';
 const Home = () => {
   return (
     <>
-      <div className="p-2 absolute top-0 left-0 right-0 w-full h-full">
-        <div className="p-1 bg-[rgba(1, 1, 1, 0.4)]">
-          <h1>My Board Game</h1>
+      <Scene/>
+      <div className="absolute top-0 left-0">
+        <div className="p-2 -space-y-1">
+          <h1 className="font-bold">My Board Game</h1>
+          <h2 className="font-medium text-gray-500">Lobby Phase</h2>
         </div>
       </div>
-      <Scene/>
     </>
   );
 };
