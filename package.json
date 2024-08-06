@@ -1,5 +1,7 @@
 {
-  "name": "my-board-game",
+  "name": "two-aces",
+  "description": "Two Aces is a digital 3d multiplayer 52-card board game build with Krmx and ThreeJS",
+  "author": "Simon Karman",
   "version": "0.1.0",
   "private": true,
   "scripts": {

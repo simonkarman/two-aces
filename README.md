@@ -1,5 +1,5 @@
-# My Board Game
-Playground for creating a 3D environment for a board game with Next.js and Three.js.
+# Two Aces
+Two Aces is a digital 3d multiplayer 52-card board game build with Krmx and ThreeJS.
 
 ## Getting Started
 First, run the development server:
