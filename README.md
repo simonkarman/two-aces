@@ -1,6 +1,10 @@
 # Two Aces
 Two Aces is a digital 3d multiplayer 52-card board game build with Krmx and ThreeJS.
 
+> ![Screenshot of Two Aces](two-aces.png)
+>
+> A screenshot of two aces rendered in the browser.
+
 ## Getting Started
 First, run the development server:
 ```bash
